@@ -1,0 +1,3 @@
+This is the license of readme.txt
+readme.txt is the file to show how the git work
+and to let us know how to use git.
